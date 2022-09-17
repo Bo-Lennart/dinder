@@ -4,9 +4,13 @@
     padding: 0;
 }
 
+/* logo styling */
+
 #logo {
     float: left;
 }
+
+/* Styling nav links */
 
 nav {
     float: right;
