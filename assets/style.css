@@ -16,8 +16,32 @@ nav {
     float: right;
 }
 
+
+ /* header styling */
+
 header {
     padding-top: 1.5%;
     padding-bottom: 1.5%;
     height: 40px;
+}
+
+/* link styling */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+/* list styling */
+li {
+    width: 40%;
+    font-size: 25px;
+    list-style-type: none;
+    padding-left: 5%;
+}
+
+/* nav links styling */
+
+#nav_links {
+    line-height: 30px;
+    display: flex;
 }
