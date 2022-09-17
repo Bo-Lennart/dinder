@@ -39,6 +39,10 @@ li {
     padding-left: 5%;
 }
 
+.active {
+    text-decoration: underline;
+}
+
 #match_link {
     width: 240px;
 }
