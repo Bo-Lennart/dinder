@@ -36,7 +36,7 @@ li {
     width: 150px;
     font-size: 25px;
     list-style-type: none;
-    padding-left: 5%;
+    
 }
 
 .active {
@@ -52,4 +52,18 @@ li {
 #nav_links {
     line-height: 30px;
     display: flex;
+}
+
+/* footer styling */
+
+footer {
+    height: 40px;
+    display: inline;
+    text-align: center;
+}
+
+footer ul li {
+    display: inline;
+    margin-left: 7%;
+    margin-right: 7%;
 }
