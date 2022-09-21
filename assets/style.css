@@ -66,7 +66,7 @@ li {
 /* hero img styling */
 
 #hero_img {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background: url('../assets/images/hero_img_dog.jpg') no-repeat center center;
     background-size: cover;
