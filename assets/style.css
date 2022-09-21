@@ -63,10 +63,13 @@ li {
     display: flex;
 }
 
+/* hero img styling */
+
 #hero_img {
-    height: 400px;
+    height: 500px;
     width: 100%;
-    background: url('../assets/images/hero_img_dog.jpg') no-repeat center;
+    background: url('../assets/images/hero_img_dog.jpg') no-repeat center center;
+    background-size: cover;
 }
 
 /* footer styling */
