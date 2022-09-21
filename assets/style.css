@@ -81,6 +81,14 @@ li {
     height: 500px;
 }
 
+#member_interview {
+    width: 50%;
+}
+
+#dinder_introduction {
+    float: right;
+}
+
 /* footer styling */
 
 footer {
