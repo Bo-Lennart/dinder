@@ -46,7 +46,6 @@ li {
     width: 150px;
     font-size: 25px;
     list-style-type: none;
-    
 }
 
 .active {
@@ -62,6 +61,12 @@ li {
 #nav_links {
     line-height: 30px;
     display: flex;
+}
+
+#hero_img {
+    height: 400px;
+    width: 100%;
+    background: url('../assets/images/hero_img_dog.jpg') no-repeat center;
 }
 
 /* footer styling */
