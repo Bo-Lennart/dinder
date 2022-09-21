@@ -77,6 +77,10 @@ li {
     background-size: cover;
 }
 
+#interview_window {
+    height: 500px;
+}
+
 /* footer styling */
 
 footer {
