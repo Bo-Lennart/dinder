@@ -77,14 +77,17 @@ li {
     background-size: cover;
 }
 
-#interview_image_container {
-    height: 400px;
-    width: 400px;
-}
+
+/* Member interview styling - home page */
 
 #interview_window {
-    width: 350px;
-    height: 350px;
+    width: 100%;
+    height: 550px;
+}
+
+#interview_image_container {
+    width: 400px;
+    display: flexbox;
 }
 
 #member_img {
@@ -93,6 +96,17 @@ li {
     background-size: cover;
     border-radius: 50%;
     object-fit: cover;
+    margin-top: 15%;
+    margin-left: 15%;
+}
+
+#interview_text {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-size: 25px;
+    margin-top: 15%;
+    margin-right: 10%;
 }
 
 /* footer styling */
