@@ -138,6 +138,33 @@ footer ul li {
 
 @media screen and (max-width: 950px) {
 
+/* list styling */
+header {
+    margin-bottom: 2%;
+    margin-top: 1%;
+    max-width: 100%;
+}
+
+nav {
+    padding: 0;
+}
+
+#nav_links {
+    float: right;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.nav_link {
+    margin-left: 5%;
+}
+
+li {
+    width: 15%;
+    font-size: 20px;
+    list-style-type: none;
+}
+
     /* Member interview styling - home page */
 
 body {
@@ -146,7 +173,7 @@ body {
 
 #interview_window {
     width: 80%;
-    height: 550px;
+    height: 350px;
     padding: 0 10%;
     align-items: center;
 }
