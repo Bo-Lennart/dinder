@@ -208,3 +208,50 @@ body {
 }
 
 }
+
+@media screen and (max-width: 800px) {
+   
+    body {
+        width: 100%;
+    }
+
+    #interview_window {
+        column-count: 1;
+    }
+
+    #interview_text {
+        height: 150px;
+        float: left;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 605px) {
+
+    #member_img {
+        display: block;
+        padding: 0;
+        margin: 0;
+}
+
+#interview_image_container {
+    border-radius: 50%;
+    margin: 0;
+    text-align: center;
+}
+
+#interview_text {
+    height: 150px;
+    width: 100%;
+    font-size: 18px;
+    position: relative;
+}
+
+#interview_window {
+    height: 500px;
+    column-count: 1;
+    padding: 0;
+    margin: 0;
+}
+
+}
