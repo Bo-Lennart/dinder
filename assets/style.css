@@ -228,11 +228,15 @@ body {
 
 @media screen and (max-width: 605px) {
 
+    body {
+
+    }
+
     #member_img {
-        float: right;
+        float: center;
         margin-top: 8%;
-        padding-left: 5%;
-        padding-right: 5%;
+        margin-left: 45%;
+        margin-right: 5%;
 }
 
 #interview_image_container {
