@@ -77,8 +77,14 @@ li {
     background-size: cover;
 }
 
-#interview_section {
-    height: 500px;
+#interview_image_container {
+    height: 400px;
+    width: 400px;
+}
+
+#interview_window {
+    width: 350px;
+    height: 350px;
 }
 
 #member_img {
