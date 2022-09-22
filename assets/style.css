@@ -85,6 +85,14 @@ li {
     width: 50%;
 }
 
+#member_image {
+    height: 250px;
+    width: 50%;
+    background: url('../assets/images/member_img.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
 #dinder_introduction {
     float: right;
 }
