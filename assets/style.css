@@ -148,7 +148,7 @@ li {
     width: 50%;
     height: 200px;
     float: right;
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 15%;
     padding-right: 5%;
     padding-left: 5%;
@@ -159,6 +159,15 @@ li {
     font-size: 30px;
     float: right;
 
+}
+
+/* find a match page styling */
+
+#hero_match_img {
+    height: 550px;
+    width: 100%;
+    background: url('../assets/images/hero_match_img.jpg') no-repeat center center;
+    background-size: cover;
 }
 
 /* footer styling */
@@ -319,7 +328,7 @@ body {
     width: 50%;
     height: 150px;
     float: left;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 30px;
 }
 
@@ -460,6 +469,13 @@ body {
     background-size: cover;
 }
 
-
+    #match_nav {
+        color: white;
+    }
+   
+    #match_nav a {
+        color: white;
+        background: rgba(0, 0, 0, 0.1)
+    }
 
 }
