@@ -228,26 +228,24 @@ body {
 
 @media screen and (max-width: 605px) {
 
+    header {
+        height: 115px;
+        padding-left: 30%;
+    }
+
     #logo {
-        border: none;
-        margin-bottom: 5%;
-        float: left;
+        margin-bottom: 45%;
     }
 
     #nav_links {
         display: block;
-        float: right;
     }
     
     .nav_link {
-        width: 20%;
+        margin-left: 0;
+        width: 150px;
         font-size: 20px;
-        list-style-type: none;
         border-bottom: solid 1px;
-    }
-
-    body {
-
     }
 
     #member_img {
@@ -255,24 +253,24 @@ body {
         margin-top: 8%;
         margin-left: 45%;
         margin-right: 5%;
-}
+    }
 
-#interview_image_container {
-    border-radius: 50%;
-    margin: 0;
-    text-align: center;
-}
+    #interview_image_container {
+        border-radius: 50%;
+        margin: 0;
+        text-align: center;
+    }
 
-#interview_text {
-    height: 150px;
-    width: 100%;
-    font-size: 18px;
-    position: relative;
-}
+    #interview_text {
+        height: 150px;
+        width: 100%;
+        font-size: 18px;
+        position: relative;
+    }
 
-#interview_window {
-    height: 400px;
-    column-count: 1;
-}
+    #interview_window {
+        height: 400px;
+        column-count: 1;
+    }
 
 }
