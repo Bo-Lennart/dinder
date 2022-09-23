@@ -239,6 +239,20 @@ body {
     float: left;
 }
 
+#about {
+    width: 70%;
+    margin-left: 15%;
+}
+
+#about h1 {
+    font-size: 30px;
+}
+
+#about p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
 }
 
 @media screen and (max-width: 800px) {
@@ -255,6 +269,15 @@ body {
         height: 150px;
         float: left;
         font-size: 18px;
+    }
+
+    #about h1 {
+        font-size: 25px;
+    }
+    
+    #about p {
+        font-size: 17px;
+        line-height: 25px;
     }
 }
 
@@ -333,5 +356,7 @@ body {
     background: url('../assets/images/about_pic.jpg') no-repeat center center;
     background-size: cover;
 }
+
+
 
 }
