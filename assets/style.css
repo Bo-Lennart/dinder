@@ -293,6 +293,39 @@ body {
     line-height: 30px;
 }
 
+/* founder interview */
+
+#founder_interview_window {
+    width: 80%;
+    height: 350px;
+    padding: 0 10%;
+    align-items: center;
+}
+
+#founder_interview_image_container {
+    margin-left: 50%;
+    margin-right: 5%;
+    border-radius: 50%;
+}
+
+#founder_member_img {
+    max-width: 50%;
+    height: 150px;
+
+}
+
+#founder_interview_text {
+    width: 50%;
+    height: 150px;
+    float: left;
+    font-size: 20px;
+}
+
+#founder_interview_text p b {
+    font-size: 25px;
+    float: left;
+}
+
 }
 
 @media screen and (max-width: 800px) {
@@ -380,6 +413,33 @@ body {
     }
 
     #interview_window {
+        height: 400px;
+        column-count: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* founder interview */
+
+    #founder_interview_image_container {
+        border-radius: 50%;
+        margin: 0;
+        text-align: center;
+    }
+
+    #founder_interview_text {
+        height: 150px;
+        width: 100%;
+        font-size: 18px;
+        position: relative;
+    }
+
+    #founder_interview_text p b {
+        font-size: 21px;
+        float: left;
+    }
+
+    #founder_interview_window {
         height: 400px;
         column-count: 1;
         display: flex;
