@@ -229,23 +229,35 @@ body {
 @media screen and (max-width: 605px) {
 
     header {
-        height: 115px;
-        padding-left: 30%;
+        height: 138px;
+        float: left;
+        margin-left: 2%;
+        margin-top: 3%;
     }
 
-    #logo {
-        margin-bottom: 45%;
+    #logo_link {
+        padding-bottom: 35%;
     }
 
     #nav_links {
         display: block;
+        margin-left: 3%;
     }
     
     .nav_link {
         margin-left: 0;
-        width: 150px;
+        width: 120px;
+        text-align: left;
         font-size: 20px;
+        padding-top: 10%;
         border-bottom: solid 1px;
+    }
+
+    #hero_img {
+        height: 450px;
+        width: 100%;
+        background: url('../assets/images/phone_hero_img.jpg') no-repeat center center;
+        background-size: cover;
     }
 
     #member_img {
