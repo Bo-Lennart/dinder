@@ -116,6 +116,11 @@ li {
     padding-left: 5%;
 }
 
+#interview_text p b {
+    font-size: 30px;
+    float: right;
+}
+
 /* footer styling */
 
 footer {
