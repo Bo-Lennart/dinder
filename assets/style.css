@@ -28,7 +28,7 @@ nav {
 }
 
 #logo_link {
-    margin-right: 0 10 0 5;
+    margin-left: 5%;
 }
 
 #nav_links  {
@@ -93,7 +93,6 @@ li {
 
 #interview_image_container {
     width: 300px;
-    display: flexbox;
     text-align: center;
     justify-content: center;
 }
@@ -171,7 +170,7 @@ nav {
 
 li {
     width: 15%;
-    font-size: 20px;
+    font-size: 16px;
     list-style-type: none;
 }
 
@@ -261,7 +260,6 @@ body {
     }
 
     #member_img {
-        float: center;
         margin-top: 8%;
         margin-left: 45%;
         margin-right: 5%;
