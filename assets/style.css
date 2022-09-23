@@ -283,6 +283,8 @@ body {
     #interview_window {
         height: 400px;
         column-count: 1;
+        display: flex;
+        flex-direction: column;
     }
 
 }
