@@ -234,6 +234,11 @@ body {
     font-size: 20px;
 }
 
+#interview_text p b {
+    font-size: 25px;
+    float: left;
+}
+
 }
 
 @media screen and (max-width: 800px) {
@@ -304,6 +309,11 @@ body {
         width: 100%;
         font-size: 18px;
         position: relative;
+    }
+
+    #interview_text p b {
+        font-size: 21px;
+        float: left;
     }
 
     #interview_window {
