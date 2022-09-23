@@ -57,7 +57,7 @@ a {
 /* list styling */
 li {
     width: 20%;
-    font-size: 25px;
+    font-size: 20px;
     list-style-type: none;
 }
 
@@ -150,6 +150,7 @@ footer ul li {
 }
 
 #about {
+    margin-top: 5%;
     margin-left: 25%;
     width: 50%;
     text-align: center;
@@ -159,6 +160,7 @@ footer ul li {
     font-size: 20px;
     text-align: center;
     line-height: 35px;
+    margin: 10% 0%;
 }
 
 @media screen and (max-width: 950px) {
