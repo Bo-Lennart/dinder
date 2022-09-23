@@ -139,7 +139,6 @@ footer ul li {
 }
 
 
-
 @media screen and (max-width: 950px) {
 
 /* list styling */
@@ -284,5 +283,16 @@ body {
         display: flex;
         flex-direction: column;
     }
+
+    /* about page */
+
+
+    /* about page img styling */
+    #about_img {
+    height: 650px;
+    width: 100%;
+    background: url('../assets/images/about_pic.jpg') no-repeat center center;
+    background-size: cover;
+}
 
 }
