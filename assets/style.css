@@ -511,7 +511,7 @@ body {
 
     /* about page img styling */
     #about_img {
-    height: 650px;
+    height: 750px;
     width: 100%;
     background: url('../assets/images/about_pic.jpg') no-repeat center center;
     background-size: cover;
@@ -525,10 +525,11 @@ body {
         width: 100%;
         background: url('../assets/images/sign_up_img_mobile.jpeg') no-repeat center center;
         background-size: cover;
+        margin-bottom: 10%;
     }
 
     .match_sign_up {
-        margin-top: 25%;
+
     }
 
     .match_sign_up {
@@ -539,7 +540,4 @@ body {
         width: 250px;
     }
 
-    #match_weekdays {
-        column-count: 3;
-    }
 }
