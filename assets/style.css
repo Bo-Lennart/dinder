@@ -516,6 +516,9 @@ body {
     background-size: cover;
 }
 
+
+    /* match submit form */
+
     #match_nav {
         color: white;
     }
@@ -525,4 +528,11 @@ body {
         background: rgba(0, 0, 0, 0.1)
     }
 
+    .match_sign_up {
+        max-width: 300px;
+    }
+
+    .text_input {
+        width: 250px;
+    }
 }
