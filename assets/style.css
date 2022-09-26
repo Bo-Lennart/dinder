@@ -529,15 +529,15 @@ body {
     }
 
     .match_sign_up {
-
-    }
-
-    .match_sign_up {
         max-width: 300px;
     }
 
     .text_input {
         width: 250px;
+    }
+
+    #match_interest {
+        height: 150px;
     }
 
 }
