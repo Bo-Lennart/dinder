@@ -408,6 +408,8 @@ body {
     padding-top: 10%;
 }
 
+/* thank you page font styling */
+
 #thank_you_text h1 {
     font-family: 'Lobster', cursive;
     font-size: 90px;
@@ -417,6 +419,16 @@ body {
 #thank_you_text h2 {
     font-family: 'Lobster', cursive;
     font-size: 40px;
+}
+
+#thank_you_text h2:hover {
+    transition-duration: 0.3s;
+    color: gray;
+}
+
+#thank_you_text p {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
 }
 
 
