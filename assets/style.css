@@ -339,6 +339,14 @@ body {
 
 }
 
+.match_sign_up {
+    padding-top: 10%;
+    padding-right: 10%;
+    float: right;
+    color: #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
 @media screen and (max-width: 800px) {
    
     body {
