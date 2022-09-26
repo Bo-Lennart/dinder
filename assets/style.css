@@ -11,6 +11,12 @@ body {
     font-family: 'Cabin', sans-serif;
 }
 
+a:hover {
+    transition-duration: 0.1s;
+    color: rgb(89, 68, 22);
+    text-decoration: underline;
+}
+
 /* logo styling */
 
 #logo {
@@ -423,7 +429,7 @@ body {
 
 #thank_you_text h2:hover {
     transition-duration: 0.3s;
-    color: gray;
+    color: rgb(54, 54, 54);
 }
 
 #thank_you_text p {
