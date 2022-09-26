@@ -274,7 +274,6 @@ body {
 #member_img {
     max-width: 50%;
     height: 150px;
-
 }
 
 #interview_text {
@@ -379,11 +378,22 @@ body {
     font-family: 'Lobster', cursive;
     font-size: 20px;
     transition-duration: 0.2s;
+    margin: 3%;
 }
 
 #find_match_button:hover {
     background-color: #FFFFFF;
     color: black;
+}
+
+.comment {
+    height: 100px;
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-left: 3%;
+    font-family: 'Cabin', sans-serif;
+    font-size: 15px;
+    outline: none;
 }
 
 
@@ -533,11 +543,15 @@ body {
     }
 
     .text_input {
-        width: 250px;
+        width: 270px;
     }
 
     #match_interest {
         height: 150px;
+    }
+
+    .comment {
+        width: 270px;
     }
 
 }
