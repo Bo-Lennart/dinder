@@ -339,6 +339,8 @@ body {
 
 }
 
+/* sign up form 'Find Match!' */
+
 .match_sign_up {
     padding: 3%;
     margin-top: 4%;
@@ -347,7 +349,11 @@ body {
     color: #FFFFFF;
     background-color: rgba(0, 0, 0, 0.3);
     max-width: 350px;
-    
+}
+
+.signUp_input {
+    margin: 3%;
+    line-height: 35px;
 }
 
 @media screen and (max-width: 800px) {
