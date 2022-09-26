@@ -547,7 +547,7 @@ body {
     }
 
     .text_input {
-        width: 220px;
+        width: 210px;
     }
 
     #match_interest {
@@ -555,7 +555,11 @@ body {
     }
 
     .comment {
-        width: 220px;
+        width: 210px;
+    }
+
+    #find_match_button {
+        float: none;
     }
 
 }
