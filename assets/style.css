@@ -602,4 +602,20 @@ body {
         float: none;
     }
 
+    /* thank you page */
+
+    /* thank you page font styling */
+
+#thank_you_text h1 {
+    font-size: 60px;
+}
+
+#thank_you_text p {
+    font-size: 20px;
+}
+
+#thank_you_hero {
+    line-height: 60px;
+}
+
 }
