@@ -164,7 +164,7 @@ li {
 /* find a match page styling */
 
 #hero_match_img {
-    height: 550px;
+    height: 850px;
     width: 100%;
     background: url('../assets/images/hero_match_img.jpg') no-repeat center center;
     background-size: cover;
@@ -344,7 +344,7 @@ body {
 .match_sign_up {
     padding: 3%;
     margin-top: 4%;
-    margin-right: 17%;
+    margin-right: 10%;
     float: right;
     color: #FFFFFF;
     background-color: rgba(0, 0, 0, 0.3);
