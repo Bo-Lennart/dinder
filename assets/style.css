@@ -367,6 +367,13 @@ body {
     width: 320px;
 }
 
+#find_match_button {
+    border: solid 1px;
+    padding: 10px 15px;
+    float: right;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
 @media screen and (max-width: 800px) {
    
     body {
