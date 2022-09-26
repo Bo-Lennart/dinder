@@ -386,6 +386,7 @@ body {
     color: black;
 }
 
+
 @media screen and (max-width: 800px) {
    
     body {
@@ -519,13 +520,15 @@ body {
 
     /* match submit form */
 
-    #match_nav {
-        color: white;
+    #hero_match_img {
+        height: 1000px;
+        width: 100%;
+        background: url('../assets/images/sign_up_img_mobile.jpeg') no-repeat center center;
+        background-size: cover;
     }
-   
-    #match_nav a {
-        color: white;
-        background: rgba(0, 0, 0, 0.1)
+
+    .match_sign_up {
+        margin-top: 25%;
     }
 
     .match_sign_up {
@@ -534,5 +537,9 @@ body {
 
     .text_input {
         width: 250px;
+    }
+
+    #match_weekdays {
+        column-count: 3;
     }
 }
