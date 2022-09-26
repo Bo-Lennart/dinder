@@ -405,14 +405,18 @@ body {
     background: url('../assets/images/thank_you_img.jpg') no-repeat center center;
     background-size: cover;
     text-align: center;
-    padding-top: 17%;
-    opacity: 50%;
+    padding-top: 10%;
 }
 
-.logo_font {
+#thank_you_text h1 {
     font-family: 'Lobster', cursive;
     font-size: 90px;
-    color: #ff0000;
+    color: #000000;
+}
+
+#thank_you_text h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
 }
 
 
