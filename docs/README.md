@@ -48,3 +48,31 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 ## Member Interview
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/member_interview.png)
+
+* On the first section of the home page, there's a short sentence from a Dinder member who explains what she liked about the Dinder experience.
+
+
+## About page
+![IMAGE ALT TEXT HERE](/docs/screenshots/about_page.png)
+
+* When the user navigates to the about page, a new header is introduced to add a dynamic visual experience. They will find a shorter description of how Dinder came up and from where the idea began. Below this section they will find a short interview with the founder of Dinder - Johanna Hendrix.
+
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/founder_interview.png)
+
+## Find Match!
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/sign_up_form.png)
+
+* The sign up section consists of a short form where the user is able to provide the information needed in order for Dinder to generate a match. All fields are neccessary to fill out and once it's submitted with the "Find Match!" button the user is redirected to a thank You page!
+
+## Thank You Page
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/thank_you.png)
+
+## Footer
+
+* The footer provides the user with social links where they will be redirected to LinkedIn, Github and Facebook.
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/footer.png)
+
