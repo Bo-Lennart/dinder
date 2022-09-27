@@ -620,14 +620,16 @@ body {
         max-width: 300px;
         margin: 15%;
         float: inline-start;
-        text-align: center;
         padding: 5%;
         display: flex;
         flex-direction: column;
     }
 
     .text_input {
-        width: 170px;
+        width: 190px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
     }
 
     #match_city {
@@ -640,7 +642,8 @@ body {
     }
 
     .comment {
-        width: 170px;
+        width: 190px;
+        padding-left: 0;
     }
 
     #find_match_button {
