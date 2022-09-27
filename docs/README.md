@@ -26,8 +26,9 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
     * Thank You Page
     * Footer
 * Testing
-* Bugs
+    * Bugs
     * Validator Testing
+
 # Project Goals
 
 * To create a web page where dog owners can sign up in order to connect with other dog owners for a client.
@@ -122,3 +123,30 @@ The bug was solved by setting a dot infront of the pathway and originate from th
     * I confirm that by running the webpage through lighthouse in devtools that font, colours, read and accessibility is performing well. 
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/lighthouse_performance.png) 
+
+# Deployment
+
+* The site was deploed to GitHub pages. The steps to deploy are the following:
+    * Go to GitHub repository, navigate to the Settings tab.
+    * From the source section drop-down menu, select the Master Branch.
+    * Once the master branch has been selected, the page provided the link to the completed website.
+
+Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank">Dinder</a>
+
+# Credits
+
+## Content
+
+    * The code for the form was inspired by
+    * The idea of hero image placement is inspired by
+
+## Media
+    
+    * hero image [mobile size] Home page is taken from:
+    * hero image [desktop size] Home page is taken from:
+    * member image - Home page is taken from:
+    * hero image [mobile size] About page is taken from:
+    * hero image [desktop size] About page is taken from:
+    * founder image - About page is taken from:
+    * hero image [mobile size] Find Match! page is taken from:
+    * hero image [desktop size] Find Match! is taken from:
