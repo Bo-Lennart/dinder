@@ -233,6 +233,10 @@ footer ul li {
     border-bottom: solid 1px;
 }
 
+#about h1 {
+    font-family: 'Lobster', cursive;
+}
+
 #about p {
     font-size: 20px;
     text-align: center;
@@ -557,14 +561,16 @@ body {
         border-radius: 50%;
         margin: 0;
         text-align: center;
-        margin-bottom: 14%;
+        margin-bottom: 20%;
+        margin-top: 15%;
     }
 
     #founder_interview_text {
         height: 150px;
-        width: 100%;
+        width: 90%;
         font-size: 17px;
         position: relative;
+        text-align: justify;
     }
 
     #founder_interview_text p b {
@@ -573,10 +579,11 @@ body {
     }
 
     #founder_interview_window {
-        height: 400px;
+        height: 320px;
         column-count: 1;
         display: flex;
         flex-direction: column;
+        margin-bottom: 30%;
     }
 
     /* about page */
@@ -587,8 +594,13 @@ body {
     height: 750px;
     width: 100%;
     background: url('../images/about_pic.jpg') no-repeat center center;
-    background-size: cover;
-}
+    background-size: cover; 
+    }
+
+    #about p {
+        text-align: justify;
+        font-size: 16px;
+    }
 
 
     /* match submit form */
