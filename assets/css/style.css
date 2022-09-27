@@ -84,7 +84,7 @@ li {
 #hero_img {
     height: 550px;
     width: 100%;
-    background: url('../assets/images/hero_img_dog2.jpg') no-repeat center center;
+    background: url('../images/hero_img_dog2.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -172,7 +172,7 @@ li {
 #hero_match_img {
     height: 850px;
     width: 100%;
-    background: url('../assets/images/hero_match_img.jpg') no-repeat center center;
+    background: url('../images/hero_match_img.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -205,7 +205,7 @@ footer ul li {
 #about_img {
     height: 550px;
     width: 100%;
-    background: url('../assets/images/about_hero.jpg') no-repeat center center;
+    background: url('../images/about_hero.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -408,7 +408,7 @@ body {
 #thank_you_hero {
     height: 550px;
     width: 100%;
-    background: url('../assets/images/thank_you_img.jpg') no-repeat center center;
+    background: url('../images/thank_you_img.jpg') no-repeat center center;
     background-size: cover;
     text-align: center;
     padding-top: 10%;
@@ -494,7 +494,7 @@ body {
     #hero_img {
         height: 450px;
         width: 100%;
-        background: url('../assets/images/phone_hero_img.jpg') no-repeat center center;
+        background: url('../images/phone_hero_img.jpg') no-repeat center center;
         background-size: cover;
     }
 
@@ -564,7 +564,7 @@ body {
     #about_img {
     height: 750px;
     width: 100%;
-    background: url('../assets/images/about_pic.jpg') no-repeat center center;
+    background: url('../images/about_pic.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -574,7 +574,7 @@ body {
     #hero_match_img {
         height: 1000px;
         width: 100%;
-        background: url('../assets/images/sign_up_img_mobile.jpeg') no-repeat center center;
+        background: url('../images/sign_up_img_mobile.jpeg') no-repeat center center;
         background-size: cover;
         margin-bottom: 10%;
     }
