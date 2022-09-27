@@ -41,6 +41,10 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 
 
 ## Hero Image
-![IMAGE ALT TEXT HERE](/docs/screenshots/Home_page_hero.png)
+![IMAGE ALT TEXT HERE](/docs/screenshots/home_page_hero.png)
 
 * The hero image is chosen to intuitively direct the first user towards what the page is about (dogs). Additionally to clearify the purpose of what Dinder is, a paragraph is added to float over the image with a short description.
+
+## Member Interview
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/member_interview.png)
