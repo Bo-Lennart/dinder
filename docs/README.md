@@ -17,18 +17,30 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 ## Contents
 
 * Project Goals
-* Nav Bar
+* Features
+    * Navigation
+    * Hero image
 
-## Project Goals
+# Project Goals
 
 * To create a web page where dog owners can sign up in order to connect with other dog owners for a client.
 
 * To demonstrate my developer competency using HTML & CSS languages
 
 
-## Features
+# Features
+
+## Navigation
+
 ![IMAGE ALT TEXT HERE](/docs/screenshots/nav_bar.png)
 
-* Navigation
-    * On the top of the page a navigation bar is displayed. The companys' logo is on the left hand side providing a link to the home page.
-    * On the mid-right hand side, there are two links: "About" and "Find a Match" which will navigate to the About and Find Match page.
+* On the top of the page a navigation bar is displayed. The companys' logo is on the left hand side providing a link to the home page.
+* On the mid-right hand side, there are two links: "About" and "Find a Match" which will navigate to these pages.
+* The font style and colour of the logo is chosen to present a playful feel that pops against the white background.
+* The navigation font is descreet and clean to add contrast to the playfulness and clearly show the user how to navigation through the webpage. 
+
+
+## Hero Image
+![IMAGE ALT TEXT HERE](/docs/screenshots/Home_page_hero.png)
+
+* The hero image is chosen to intuitively direct the first user towards what the page is about (dogs). Additionally to clearify the purpose of what Dinder is, a paragraph is added to float over the image with a short description.
