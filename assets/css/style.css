@@ -78,6 +78,7 @@ li {
     margin-top: 4%;
     margin-right: 28%;
     float: right;
+    position: relative;
     color: #FFFFFF;
     background-color: rgba(0, 0, 0, 0.3);
     width: 200px;
@@ -511,6 +512,12 @@ body {
         width: 100%;
         background: url('../images/phone_hero_img.jpg') no-repeat center center;
         background-size: cover;
+    }
+
+    #dinder_intro {
+        margin: 0;
+        margin-top: 50%;
+        margin-right: 5%;
     }
 
     #member_img {
