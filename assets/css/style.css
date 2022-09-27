@@ -248,6 +248,114 @@ footer ul li {
     margin: 10% 0%;
 }
 
+/* sign up form 'Find Match!' */
+
+.match_sign_up {
+    padding: 3%;
+    margin-top: 4%;
+    margin-right: 10%;
+    float: right;
+    color: #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.3);
+    max-width: 350px;
+}
+
+.signUp_input {
+    line-height: 35px;
+}
+
+.signUp_input h3 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text_input {
+    height: 30px;
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: 'Cabin', sans-serif;
+    font-size: 15px;
+    outline: none;
+}
+
+#find_match_button {
+    border: solid 1px;
+    padding: 10px 15px;
+    float: right;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    transition-duration: 0.2s;
+    margin: 17%;
+}
+
+#find_match_button:hover {
+    background-color: #FFFFFF;
+    color: black;
+}
+
+.comment {
+    height: 100px;
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-left: 3%;
+    font-family: 'Cabin', sans-serif;
+    font-size: 15px;
+    outline: none;
+}
+
+#match_city {
+    display: block;
+    flex-direction: column;
+ }
+
+ .city_choice {
+     display: flex;
+     flex-direction: row;
+ }
+
+#match_city input {
+    margin-left: 10%;
+}
+
+#match_city label {
+    width: 100px;
+}
+
+/* hero img thank you page */
+
+#thank_you_hero {
+    height: 550px;
+    width: 100%;
+    background: url('../images/thank_you_img.jpg') no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 10%;
+}
+
+/* thank you page font styling */
+
+#thank_you_text h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    color: #000000;
+}
+
+#thank_you_text h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+
+#thank_you_text h2:hover {
+    transition-duration: 0.3s;
+    color: rgb(54, 54, 54);
+}
+
+#thank_you_text p {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
 @media screen and (max-width: 950px) {
 
 /* list styling */
@@ -367,99 +475,6 @@ body {
 }
 
 }
-
-/* sign up form 'Find Match!' */
-
-.match_sign_up {
-    padding: 3%;
-    margin-top: 4%;
-    margin-right: 10%;
-    float: right;
-    color: #FFFFFF;
-    background-color: rgba(0, 0, 0, 0.3);
-    max-width: 350px;
-}
-
-.signUp_input {
-    margin: 3%;
-    line-height: 35px;
-}
-
-.signUp_input h3 {
-    margin-top: 2%;
-    margin-bottom: 2%;
-}
-
-.text_input {
-    height: 30px;
-    width: 320px;
-    background-color: rgba(255, 255, 255, 0.5);
-    font-family: 'Cabin', sans-serif;
-    font-size: 15px;
-    outline: none;
-}
-
-#find_match_button {
-    border: solid 1px;
-    padding: 10px 15px;
-    float: right;
-    background-color: rgba(255, 255, 255, 0.5);
-    font-family: 'Lobster', cursive;
-    font-size: 20px;
-    transition-duration: 0.2s;
-    margin: 3%;
-}
-
-#find_match_button:hover {
-    background-color: #FFFFFF;
-    color: black;
-}
-
-.comment {
-    height: 100px;
-    width: 320px;
-    background-color: rgba(255, 255, 255, 0.5);
-    padding-left: 3%;
-    font-family: 'Cabin', sans-serif;
-    font-size: 15px;
-    outline: none;
-    
-}
-
-/* hero img thank you page */
-
-#thank_you_hero {
-    height: 550px;
-    width: 100%;
-    background: url('../images/thank_you_img.jpg') no-repeat center center;
-    background-size: cover;
-    text-align: center;
-    padding-top: 10%;
-}
-
-/* thank you page font styling */
-
-#thank_you_text h1 {
-    font-family: 'Lobster', cursive;
-    font-size: 90px;
-    color: #000000;
-}
-
-#thank_you_text h2 {
-    font-family: 'Lobster', cursive;
-    font-size: 40px;
-}
-
-#thank_you_text h2:hover {
-    transition-duration: 0.3s;
-    color: rgb(54, 54, 54);
-}
-
-#thank_you_text p {
-    font-family: 'Lobster', cursive;
-    font-size: 20px;
-}
-
 
 @media screen and (max-width: 800px) {
    
@@ -618,7 +633,7 @@ body {
 
     .match_sign_up {
         max-width: 300px;
-        margin: 15%;
+        margin-top: 15%;
         float: inline-start;
         padding: 5%;
         display: flex;
@@ -630,11 +645,6 @@ body {
         display: flex;
         flex-direction: column;
         text-align: center;
-    }
-
-    #match_city {
-       display: flex;
-       flex-direction: column;
     }
 
     #match_interest {
