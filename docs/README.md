@@ -83,3 +83,20 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 * I confirmd that the responsive design and chosen images for tablets and mobile screens work as intended.
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/responsive_mobile_tablet.png) 
+
+* The navigation bar is easy to understand and the texts, paragraphs, headings, links, inputs, buttons are readable and work.
+
+* The form works and all required entry fields work. The amail field will only accept an email adress and the submit button won't redirect to the thank you page before all fields are filled out!
+
+# Bugs
+
+* When I deployed my project to GutHub the project could not locate images and the file pathway to the stylesheet eventhough it had worked perfectly fine when running locally. 
+The bug was solved by setting a dot infront of the pathway and originate from the Dinder folder.
+   Solved: link rel="stylesheet" href="./assets/css/style.css"
+
+* Once the pathway was solved for the stylesheet I had to do the same for the image pathways in the css file.
+   Solved: background: url('../images/hero_img_home.jpg') no-repeat center center; 
+
+* The "Find Match!" submit button didn't work and I did not discover this before late in the process when I started working with the "thank you page". The problem that had occured was that I used the method="POST" without having somewhere to post it - error message occured.
+     Solved: Removed the post method and added action link to redirect to thank you page.
+
