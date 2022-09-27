@@ -622,10 +622,12 @@ body {
         margin: 15%;
         float: inline-start;
         text-align: center;
+        padding: 5%;
+        padding-right: 10%;
     }
 
     .text_input {
-        width: 210px;
+        width: 170px;
     }
 
     #match_interest {
@@ -633,7 +635,7 @@ body {
     }
 
     .comment {
-        width: 210px;
+        width: 170px;
     }
 
     #find_match_button {
