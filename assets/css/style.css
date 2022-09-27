@@ -143,6 +143,10 @@ li {
     float: right;
 }
 
+#interview_name {
+    margin-top: 10%;
+}
+
 /* interview with founder on about page */
 
 #founder_interview_window {
