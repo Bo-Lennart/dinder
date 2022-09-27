@@ -288,7 +288,8 @@ footer ul li {
     font-family: 'Lobster', cursive;
     font-size: 20px;
     transition-duration: 0.2s;
-    margin: 17%;
+    margin: 5% 5% 5% 0%;
+    margin-bottom: 0;
 }
 
 #find_match_button:hover {
