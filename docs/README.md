@@ -92,11 +92,26 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 
 * When I deployed my project to GutHub the project could not locate images and the file pathway to the stylesheet eventhough it had worked perfectly fine when running locally. 
 The bug was solved by setting a dot infront of the pathway and originate from the Dinder folder.
-   Solved: link rel="stylesheet" href="./assets/css/style.css"
+   
+    [Solved: link rel="stylesheet" href="./assets/css/style.css"]
 
 * Once the pathway was solved for the stylesheet I had to do the same for the image pathways in the css file.
-   Solved: background: url('../images/hero_img_home.jpg') no-repeat center center; 
+
+    [Solved: background: url('../images/hero_img_home.jpg') no-repeat center center;]
 
 * The "Find Match!" submit button didn't work and I did not discover this before late in the process when I started working with the "thank you page". The problem that had occured was that I used the method="POST" without having somewhere to post it - error message occured.
-     Solved: Removed the post method and added action link to redirect to thank you page.
 
+    [Solved: Removed the post method and added action link to redirect to thank you page.]
+
+## Validator Testing
+
+* HTML
+    * W3C validator
+
+* CSS
+    * Jigsaw
+
+* Accessibility
+    * I confirm that by running the webpage through lighthouse in devtools that font, colours, read and accessibility is performing well. 
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/lighthouse_performance.png) 
