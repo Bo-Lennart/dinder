@@ -394,7 +394,6 @@ body {
     height: 30px;
     width: 320px;
     background-color: rgba(255, 255, 255, 0.5);
-    padding-left: 3%;
     font-family: 'Cabin', sans-serif;
     font-size: 15px;
     outline: none;
@@ -623,11 +622,17 @@ body {
         float: inline-start;
         text-align: center;
         padding: 5%;
-        padding-right: 10%;
+        display: flex;
+        flex-direction: column;
     }
 
     .text_input {
         width: 170px;
+    }
+
+    #match_city {
+       display: flex;
+       flex-direction: column;
     }
 
     #match_interest {
@@ -646,16 +651,21 @@ body {
 
     /* thank you page font styling */
 
-#thank_you_text h1 {
-    font-size: 60px;
-}
+    #thank_you_text h1 {
+        font-size: 60px;
+    }
 
-#thank_you_text p {
-    font-size: 20px;
-}
+    #thank_you_text p {
+        font-size: 20px;
+    }
 
-#thank_you_hero {
-    line-height: 60px;
-}
+    #thank_you_hero {
+        line-height: 60px;
+    }
+
+    /* thank you page hero img */
+        #thank_you_hero {
+        
+    }
 
 }
