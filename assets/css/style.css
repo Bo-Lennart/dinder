@@ -276,6 +276,7 @@ footer ul li {
     font-family: 'Cabin', sans-serif;
     font-size: 15px;
     outline: none;
+    padding-left: 5%;
 }
 
 #find_match_button {
@@ -302,6 +303,7 @@ footer ul li {
     font-family: 'Cabin', sans-serif;
     font-size: 15px;
     outline: none;
+    padding: 5%;
 }
 
 #match_city {
@@ -635,7 +637,7 @@ body {
         max-width: 300px;
         margin-top: 15%;
         float: inline-start;
-        padding: 5%;
+        padding: 8%;
         display: flex;
         flex-direction: column;
     }
@@ -644,7 +646,7 @@ body {
         width: 190px;
         display: flex;
         flex-direction: column;
-        text-align: center;
+        margin-right: 5%;
     }
 
     #match_interest {
@@ -652,8 +654,7 @@ body {
     }
 
     .comment {
-        width: 190px;
-        padding-left: 0;
+        width: 180px;
     }
 
     #find_match_button {
