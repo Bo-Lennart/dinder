@@ -1,3 +1,1 @@
-Dinder.
-
-First portfolio project.
+#Dinder - HTML/CSS Essentials
