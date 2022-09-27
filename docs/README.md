@@ -76,3 +76,10 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/footer.png)
 
+# Testing
+
+* The page is tested and works responsively throughout web browsers such as Chrome, Firefox and Safari.
+
+* I confirmd that the responsive design and chosen images for tablets and mobile screens work as intended.
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/responsive_mobile_tablet.png) 
