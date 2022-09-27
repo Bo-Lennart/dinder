@@ -71,6 +71,21 @@ li {
     text-decoration: underline;
 }
 
+/* dinder intro styling */
+
+#dinder_intro {
+    padding: 2%;
+    margin-top: 4%;
+    margin-right: 28%;
+    float: right;
+    color: #FFFFFF;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 200px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
 
 /* nav links styling */
 
