@@ -344,18 +344,22 @@ footer ul li {
 }
 
 #thank_you_text h2 {
+    color: #FFFFFF;
+    margin-top: 5%;
     font-family: 'Lobster', cursive;
-    font-size: 40px;
+    font-size: 35px;
+    text-decoration: underline;
 }
 
 #thank_you_text h2:hover {
-    transition-duration: 0.3s;
+    transition-duration: 0.2s;
     color: rgb(54, 54, 54);
 }
 
 #thank_you_text p {
     font-family: 'Lobster', cursive;
     font-size: 20px;
+    margin-top: 5%;
 }
 
 @media screen and (max-width: 950px) {
@@ -666,11 +670,16 @@ body {
     /* thank you page font styling */
 
     #thank_you_text h1 {
-        font-size: 60px;
+        font-size: 50px;
+    }
+
+    #thank_you_text h2 {
+        font-size: 25px;
     }
 
     #thank_you_text p {
-        font-size: 20px;
+        margin-top: 10%;
+        font-size: 15px;
     }
 
     #thank_you_hero {
