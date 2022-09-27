@@ -20,7 +20,14 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 * Features
     * Navigation
     * Hero image
-
+    * Member Interview
+    * About page
+    * Find Match!
+    * Thank You Page
+    * Footer
+* Testing
+* Bugs
+    * Validator Testing
 # Project Goals
 
 * To create a web page where dog owners can sign up in order to connect with other dog owners for a client.
@@ -88,7 +95,7 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by 
 
 * The form works and all required entry fields work. The amail field will only accept an email adress and the submit button won't redirect to the thank you page before all fields are filled out!
 
-# Bugs
+## Bugs
 
 * When I deployed my project to GutHub the project could not locate images and the file pathway to the stylesheet eventhough it had worked perfectly fine when running locally. 
 The bug was solved by setting a dot infront of the pathway and originate from the Dinder folder.
