@@ -313,6 +313,10 @@ footer ul li {
     flex-direction: column;
 }
 
+#match_city p {
+    font-size: 20px;
+}
+
 .city_choice {
     display: flex;
     flex-direction: row;
