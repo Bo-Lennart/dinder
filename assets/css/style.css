@@ -79,11 +79,11 @@ li {
     margin-right: 28%;
     float: right;
     position: relative;
-    color: #FFFFFF;
-    background-color: rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    background-color: rgba(255, 0, 0, 0.5);
     width: 200px;
     font-family: 'Lobster', cursive;
-    font-size: 20px;
+    font-size: 25px;
     border-radius: 15px;
     text-align: center;
 }
@@ -552,9 +552,11 @@ footer ul li {
     }
 
     #dinder_intro {
+        font-size: 20px;
         margin: 0;
         margin-top: 50%;
         margin-right: 5%;
+        background-color: rgba(0, 0, 0, 0.3);
     }
 
     #member_img {
@@ -597,8 +599,6 @@ footer ul li {
         margin-bottom: 25%;
         margin-top: 15%;
     }
-
-
 
     #founder_interview_text {
         height: 150px;
