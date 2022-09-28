@@ -32,6 +32,10 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, fou
 - [Testing](#footer)
     - [Bugs](#bugs)
     - [Validator Testing](#validator-testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
 
 # Project Goals
 
@@ -174,10 +178,16 @@ The bug was solved by setting a dot infront of the pathway and originate from th
 
 # Deployment
 
-* The site was deploed to GitHub pages. The steps to deploy are the following:
-    * Go to GitHub repository, navigate to the Settings tab.
-    * From the source section drop-down menu, select the Main Branch.
-    * Once the main branch has been selected, the page provided the link to the completed website.
+The site was deployed to GitHub pages.
+
+## Deploy to GitHub Pages
+1. Navigate to the settings tab in the GitHub repository
+2. Once in settings, navigate to the pages tab on the left of the page
+3. Under source, select branch ‘master’ and then click ‘save’
+4. Page will no automatically refresh and show a detailed ribbon display to indicate deployment
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/deploy_page_steps.png) 
+
 
 Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank">Dinder</a>
 
