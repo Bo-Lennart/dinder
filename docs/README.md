@@ -144,16 +144,16 @@ Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank
 
 ## Content
 
-    * The code for the form was inspired by
-    * The idea of hero image placement is inspired by
+* The idea of hero image placement with a floating description box is inspired from the CI <a href="https://github.com/Code-Institute-Org/love-running-2.0" target="_blank">Love Running Project</a>
+    
 
 ## Media
     
-    * hero image [mobile size] Home page is taken from:
-    * hero image [desktop size] Home page is taken from:
-    * member image - Home page is taken from:
-    * hero image [mobile size] About page is taken from:
-    * hero image [desktop size] About page is taken from:
-    * founder image - About page is taken from:
-    * hero image [mobile size] Find Match! page is taken from:
-    * hero image [desktop size] Find Match! is taken from:
+* hero image [mobile size] Home page is taken from:
+* hero image [desktop size] Home page is taken from:
+* member image - Home page is taken from:
+* hero image [mobile size] About page is taken from:
+* hero image [desktop size] About page is taken from:
+* founder image - About page is taken from:
+* hero image [mobile size] Find Match! page is taken from:
+* hero image [desktop size] Find Match! is taken from:
