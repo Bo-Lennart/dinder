@@ -652,6 +652,7 @@ footer ul li {
         padding: 8%;
         display: flex;
         flex-direction: column;
+        margin-left: 10%;
     }
 
 
@@ -671,7 +672,7 @@ footer ul li {
     }
 
     #find_match_button {
-        float: none;
+        width: 130px;
     }
 
     /* thank you page */
