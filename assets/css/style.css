@@ -37,7 +37,7 @@ nav {
     margin-left: 5%;
 }
 
-#nav_links  {
+#nav_links {
     justify-content: center;
     width: 100%;
     float: right;
@@ -45,7 +45,7 @@ nav {
     text-align: center;
 }
 
- /* header styling */
+/* header styling */
 
 header {
     padding-top: 1.5%;
@@ -311,12 +311,12 @@ footer ul li {
 #match_city {
     display: block;
     flex-direction: column;
- }
+}
 
- .city_choice {
-     display: flex;
-     flex-direction: row;
- }
+.city_choice {
+    display: flex;
+    flex-direction: row;
+}
 
 #match_city input {
     margin-left: 10%;
@@ -366,125 +366,125 @@ footer ul li {
 
 @media screen and (max-width: 950px) {
 
-/* list styling */
-header {
-    margin-bottom: 2%;
-    margin-top: 1%;
-    max-width: 100%;
-}
+    /* list styling */
+    header {
+        margin-bottom: 2%;
+        margin-top: 1%;
+        max-width: 100%;
+    }
 
-#logo_link {
-    margin: 0;
-    margin-right: 5%;
-}
+    #logo_link {
+        margin: 0;
+        margin-right: 5%;
+    }
 
-nav {
-    padding: 0;
-}
+    nav {
+        padding: 0;
+    }
 
-#nav_links {
-    float: right;
-    margin-left: 5%;
-    text-align: center;
-}
+    #nav_links {
+        float: right;
+        margin-left: 5%;
+        text-align: center;
+    }
 
-.nav_link {
-    margin-left: 5%;
-}
+    .nav_link {
+        margin-left: 5%;
+    }
 
-li {
-    width: 15%;
-    font-size: 16px;
-    list-style-type: none;
-}
+    li {
+        width: 15%;
+        font-size: 16px;
+        list-style-type: none;
+    }
 
     /* Member interview styling - home page */
 
-body {
-    flex-wrap: wrap;
-}
+    body {
+        flex-wrap: wrap;
+    }
 
-#interview_window {
-    width: 80%;
-    height: 350px;
-    padding: 0 10%;
-    align-items: center;
-}
+    #interview_window {
+        width: 80%;
+        height: 350px;
+        padding: 0 10%;
+        align-items: center;
+    }
 
-#interview_image_container {
-    margin-left: 50%;
-    margin-right: 5%;
-    border-radius: 50%;
-}
+    #interview_image_container {
+        margin-left: 50%;
+        margin-right: 5%;
+        border-radius: 50%;
+    }
 
-#member_img {
-    max-width: 50%;
-    height: 150px;
-}
+    #member_img {
+        max-width: 50%;
+        height: 150px;
+    }
 
-#interview_text {
-    width: 50%;
-    height: 150px;
-    float: left;
-    font-size: 20px;
-}
+    #interview_text {
+        width: 50%;
+        height: 150px;
+        float: left;
+        font-size: 20px;
+    }
 
-#interview_text p b {
-    font-size: 25px;
-    float: left;
-}
+    #interview_text p b {
+        font-size: 25px;
+        float: left;
+    }
 
-#about {
-    width: 70%;
-    margin-left: 15%;
-}
+    #about {
+        width: 70%;
+        margin-left: 15%;
+    }
 
-#about h1 {
-    font-size: 30px;
-}
+    #about h1 {
+        font-size: 30px;
+    }
 
-#about p {
-    font-size: 20px;
-    line-height: 30px;
-}
+    #about p {
+        font-size: 20px;
+        line-height: 30px;
+    }
 
-/* founder interview */
+    /* founder interview */
 
-#founder_interview_window {
-    width: 80%;
-    height: 350px;
-    padding: 0 10%;
-    align-items: center;
-}
+    #founder_interview_window {
+        width: 80%;
+        height: 350px;
+        padding: 0 10%;
+        align-items: center;
+    }
 
-#founder_interview_image_container {
-    margin-left: 50%;
-    margin-right: 5%;
-    border-radius: 50%;
-}
+    #founder_interview_image_container {
+        margin-left: 50%;
+        margin-right: 5%;
+        border-radius: 50%;
+    }
 
-#founder_member_img {
-    max-width: 50%;
-    height: 150px;
-}
+    #founder_member_img {
+        max-width: 50%;
+        height: 150px;
+    }
 
-#founder_interview_text {
-    width: 50%;
-    height: 150px;
-    float: left;
-    font-size: 17px;
-    line-height: 30px;
-}
+    #founder_interview_text {
+        width: 50%;
+        height: 150px;
+        float: left;
+        font-size: 17px;
+        line-height: 30px;
+    }
 
-#founder_interview_text p b {
-    font-size: 25px;
-    float: left;
-}
+    #founder_interview_text p b {
+        font-size: 25px;
+        float: left;
+    }
 
 }
 
 @media screen and (max-width: 800px) {
-   
+
     body {
         width: 100%;
     }
@@ -502,7 +502,7 @@ body {
     #about h1 {
         font-size: 25px;
     }
-    
+
     #about p {
         font-size: 17px;
         line-height: 25px;
@@ -526,7 +526,7 @@ body {
         display: block;
         margin-left: 3%;
     }
-    
+
     .nav_link {
         margin-left: 0;
         width: 120px;
@@ -615,20 +615,18 @@ body {
 
     /* about page */
 
-
     /* about page img styling */
     #about_img {
-    height: 750px;
-    width: 100%;
-    background: url('../images/about_pic.jpg') no-repeat center center;
-    background-size: cover; 
+        height: 750px;
+        width: 100%;
+        background: url('../images/about_pic.jpg') no-repeat center center;
+        background-size: cover;
     }
 
     #about p {
         text-align: justify;
         font-size: 16px;
     }
-
 
     /* match submit form */
 
