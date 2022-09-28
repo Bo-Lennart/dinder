@@ -56,6 +56,17 @@ As a user I want to be able to:
     * Be able to sign up and get clear instructions on what will happen once I've signed up.
     * Learn more about the developer who build the site, which is provided by the social links at the footer of the page.
 
+## Color schemes
+
+The color schemes are slected from the header images and according to these choices of colors were made for interview images to match harmonically with these schemes.
+
+Colour schemes - Desktop:
+![IMAGE ALT TEXT HERE](/docs/screenshots/dinder_desktop_color_schemes.png)
+
+Colour schemes - Mobile:
+![IMAGE ALT TEXT HERE](/docs/screenshots/color_schemes_mobile.png)
+
+
 
 # Features
 
