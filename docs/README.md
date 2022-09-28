@@ -43,7 +43,7 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, fou
 ![IMAGE ALT TEXT HERE](/docs/screenshots/nav_bar.png)
 
 * On the top of the page a navigation bar is displayed. The companys' logo is on the left hand side providing a link to the home page.
-* On the mid-right hand side, there are three links: "Hom", "About" and "Find a Match" which will navigate to these pages.
+* On the mid-right hand side, there are three links: "Home", "About" and "Find a Match" which will navigate to these pages.
 * The font style and colour of the logo is chosen to present a playful feel that pops against the white background.
 * The navigation font is descreet and clean to add contrast to the playfulness and clearly show the user how to navigation through the webpage. 
 
@@ -88,11 +88,13 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, fou
 
 * The page is tested and works responsively throughout web browsers such as Chrome, Firefox and Safari.
 
-* I confirmd that the responsive design and chosen images for tablets and mobile screens work as intended.
+* I confirmd that the responsive design and chosen images for tablets and mobile screens work as intended. The header adjusts to the different screen sizes and navigation works fine.
+
+* Social media links on the footer of the page work as intended and send the user to the desired web pages.
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/responsive_mobile_tablet.png) 
 
-* The navigation bar is easy to understand and the texts, paragraphs, headings, links, inputs, buttons are readable and work.
+* The navigation bar is there to present clear navigation through the page. The purpose to put it on the top of the page is to easely swipe up and navigate to the desired page.
 
 * The form works and all required entry fields work. The email field will only accept an email address and the submit button won't redirect to the thank you page before all fields are filled out!
 
@@ -124,6 +126,9 @@ The bug was solved by setting a dot infront of the pathway and originate from th
     ![IMAGE ALT TEXT HERE](/docs/screenshots/about_thanks_validation.png) 
     ![IMAGE ALT TEXT HERE](/docs/screenshots/find_match_validation_first.png) 
     ![IMAGE ALT TEXT HERE](/docs/screenshots/find_match_validation_second.png) 
+    * During the final validation after taking care of the radio button error on the 'Find Match' form that occured, there were additional errors discovered. These are aswell replaced/removed accordingly.
+    ![IMAGE ALT TEXT HERE](/docs/screenshots/final_validation.png) 
+
 
 * CSS
     * Jigsaw
