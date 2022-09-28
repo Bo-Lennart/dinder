@@ -55,13 +55,13 @@ Dog owners who want to meet other dog owners to find new friends for both themse
 ## User Stories
 
 As a user I want to be able to:
-    * Understand what the purpose of this page on loading.
-    * Have a smooth navigation experience as I click through the page.
-    * Build an understanding of what members think of Dinders' service.
-    * Be able to find information on how or why Dinder was created.
-    * Find a personal experience in the website which brings the importance of the founders interview into account. This gives a warmer feel and knowing that the founder actually is a dog owner herself and build trust with the user.
-    * Be able to sign up and get clear instructions on what will happen once I've signed up.
-    * Learn more about the developer who build the site, which is provided by the social links at the footer of the page.
+* Understand what the purpose of this page on loading.
+* Have a smooth navigation experience as I click through the page.
+* Build an understanding of what members think of Dinders' service.
+* Be able to find information on how or why Dinder was created.
+* Find a personal experience in the website which brings the importance of the founders interview into account. This gives a warmer feel and knowing that the founder actually is a dog owner herself and build trust with the user.
+* Be able to sign up and get clear instructions on what will happen once I've signed up.
+* Learn more about the developer who build the site, which is provided by the social links at the footer of the page.
 
 ## Color schemes
 
