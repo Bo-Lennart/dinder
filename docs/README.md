@@ -111,6 +111,10 @@ The bug was solved by setting a dot infront of the pathway and originate from th
 
     [Solved: Removed the post method and added action link to redirect to thank you page.]
 
+* During the final testing the radio buttons of the find match form did not work properly. All were selectable and I was not able to submit the form.
+    * Cause: After the w3c validation I had blindly added and changed the code without paying attention to removing cruicial parts such as the name for each radio button.
+    * Solution: A few tries of chaning the code back to how it was and some google searches I realised that the issue had to do with the name attribute and needs to be the same for each radio button, in order to be a unique selection.
+
 ## Validator Testing
 
 * HTML
