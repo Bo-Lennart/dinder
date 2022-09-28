@@ -1,6 +1,6 @@
 # Dinder - HTML/CSS Essentials
 
-Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, by Johanna Hendrix. The webpage is intended to gather contact information about dog owners and match them together according to their location and interests.
+Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, founded by Johanna Hendrix. The webpage is intended to gather contact information about dog owners and match them together according to their location and interests.
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/responsive_pic.png)
 
