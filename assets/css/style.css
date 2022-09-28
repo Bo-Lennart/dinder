@@ -466,7 +466,6 @@ body {
 #founder_member_img {
     max-width: 50%;
     height: 150px;
-
 }
 
 #founder_interview_text {
@@ -587,20 +586,22 @@ body {
         border-radius: 50%;
         margin: 0;
         text-align: center;
-        margin-bottom: 20%;
+        margin-bottom: 25%;
         margin-top: 15%;
     }
+
+
 
     #founder_interview_text {
         height: 150px;
         width: 90%;
-        font-size: 17px;
+        font-size: 16px;
         position: relative;
         text-align: justify;
     }
 
     #founder_interview_text p b {
-        font-size: 21px;
+        font-size: 18px;
         float: left;
     }
 
@@ -609,7 +610,7 @@ body {
         column-count: 1;
         display: flex;
         flex-direction: column;
-        margin-bottom: 30%;
+        margin-bottom: 40%;
     }
 
     /* about page */
@@ -686,11 +687,6 @@ body {
 
     #thank_you_hero {
         line-height: 60px;
-    }
-
-    /* thank you page hero img */
-        #thank_you_hero {
-        
     }
 
 }
