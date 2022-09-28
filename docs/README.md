@@ -55,7 +55,7 @@ Dog owners who want to meet other dog owners to find new friends for both themse
 ## User Stories
 
 As a user I want to be able to:
-* Understand what the purpose of this page on loading.
+* Understand what the purpose of this page is on loading.
 * Have a smooth navigation experience as I click through the page.
 * Build an understanding of what members think of Dinders' service.
 * Be able to find information on how or why Dinder was created.
