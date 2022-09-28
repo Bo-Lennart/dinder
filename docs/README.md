@@ -188,6 +188,27 @@ The site was deployed to GitHub pages.
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/deploy_page_steps.png) 
 
+## To Fork the Repository
+
+To make a copy or ‘fork’ the repository:
+
+1. Log into GitHub and locate repository
+2. On the right hand side of the page select the ‘fork’ option to create and copy of the original
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/clone_process.png) 
+
+## To create a Local Clone
+
+1. under the repository name, click on the ‘code’ tab
+2. in the clone box, HTTPS tab, click on the clipboard icon
+3. in your IED open GitBash
+4. Changed the current working directory to the location you want the cloned directory to be made
+5. Type ‘git clone’ and then paste the URL copied from GitHub
+6. press enter and the local clone will be created
+
+![IMAGE ALT TEXT HERE](/docs/screenshots/fork_github_project.png) 
+
+
 
 Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank">Dinder</a>
 
