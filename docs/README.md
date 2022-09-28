@@ -43,7 +43,7 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, fou
 ![IMAGE ALT TEXT HERE](/docs/screenshots/nav_bar.png)
 
 * On the top of the page a navigation bar is displayed. The companys' logo is on the left hand side providing a link to the home page.
-* On the mid-right hand side, there are two links: "About" and "Find a Match" which will navigate to these pages.
+* On the mid-right hand side, there are three links: "Hom", "About" and "Find a Match" which will navigate to these pages.
 * The font style and colour of the logo is chosen to present a playful feel that pops against the white background.
 * The navigation font is descreet and clean to add contrast to the playfulness and clearly show the user how to navigation through the webpage. 
 
@@ -94,7 +94,7 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, fou
 
 * The navigation bar is easy to understand and the texts, paragraphs, headings, links, inputs, buttons are readable and work.
 
-* The form works and all required entry fields work. The amail field will only accept an email adress and the submit button won't redirect to the thank you page before all fields are filled out!
+* The form works and all required entry fields work. The email field will only accept an email address and the submit button won't redirect to the thank you page before all fields are filled out!
 
 ## Bugs
 
@@ -135,8 +135,8 @@ The bug was solved by setting a dot infront of the pathway and originate from th
 
 * The site was deploed to GitHub pages. The steps to deploy are the following:
     * Go to GitHub repository, navigate to the Settings tab.
-    * From the source section drop-down menu, select the Master Branch.
-    * Once the master branch has been selected, the page provided the link to the completed website.
+    * From the source section drop-down menu, select the Main Branch.
+    * Once the main branch has been selected, the page provided the link to the completed website.
 
 Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank">Dinder</a>
 
@@ -149,12 +149,20 @@ Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank
 
 ## Media
     
-* hero image [mobile size] Home page is taken from: <a href="https://www.pexels.com/photo/portrait-of-a-dog-257540/" target="_blank">Pixels</a>
+* hero image [mobile size] 'Home' page is taken from: <a href="https://www.pexels.com/photo/portrait-of-a-dog-257540/" target="_blank">Pixels</a>
+
 * hero image [desktop size] 'Home' page is taken from: <a href="https://www.pexels.com/photo/white-and-brown-puppy-on-black-car-7324407/" target="_blank">Pixels</a>
-* member image - 'Home' page is taken from: <a href="" target="_blank">Pixels</a>
+
+* member image - 'Home' page is taken from: <a href="https://www.pexels.com/photo/happy-black-woman-hugging-dog-on-street-5255596/" target="_blank">Pixels</a>
+
 * hero image [mobile size] 'About' page is taken from: <a href="https://www.pexels.com/photo/dalmatian-sitting-white-surface-933498/" target="_blank">Pixels</a>
+
 * hero image [desktop size] 'About' page is taken from: <a href="https://www.pexels.com/photo/photo-of-dog-peeking-on-vehicle-window-3097610/" target="_blank">Pixels</a>
-* founder image - 'About' page is taken from: <a href="" target="_blank">Pixels</a>
-* hero image [mobile size] 'Find Match!' page is taken from: <a href="" target="_blank">Pixels</a>
+
+* founder image - 'About' page is taken from: <a href="https://www.pexels.com/photo/woman-carrying-adult-fawn-dog-1612846/" target="_blank">Pixels</a>
+
+* hero image [mobile size] 'Find Match!' page is taken from: <a href="https://www.pexels.com/photo/shih-tzu-sitting-on-the-floor-2623968/" target="_blank">Pixels</a>
+
 * hero image [desktop size] 'Find Match!' is taken from: <a href="https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/" target="_blank">Pixels</a>
+
 * hero image [desktop/mobile size] 'Thank you' page is taken from: <a href="https://www.pexels.com/photo/a-pet-dog-hiding-8473265/" target="_blank">Pixels</a>
