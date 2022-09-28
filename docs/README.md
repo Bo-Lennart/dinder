@@ -149,11 +149,12 @@ Live link to page: <a href="https://bo-lennart.github.io/dinder/" target="_blank
 
 ## Media
     
-* hero image [mobile size] Home page is taken from:
-* hero image [desktop size] Home page is taken from:
-* member image - Home page is taken from:
-* hero image [mobile size] About page is taken from:
-* hero image [desktop size] About page is taken from:
-* founder image - About page is taken from:
-* hero image [mobile size] Find Match! page is taken from:
-* hero image [desktop size] Find Match! is taken from:
+* hero image [mobile size] Home page is taken from: <a href="https://www.pexels.com/photo/portrait-of-a-dog-257540/" target="_blank">Pixels</a>
+* hero image [desktop size] 'Home' page is taken from: <a href="https://www.pexels.com/photo/white-and-brown-puppy-on-black-car-7324407/" target="_blank">Pixels</a>
+* member image - 'Home' page is taken from: <a href="" target="_blank">Pixels</a>
+* hero image [mobile size] 'About' page is taken from: <a href="https://www.pexels.com/photo/dalmatian-sitting-white-surface-933498/" target="_blank">Pixels</a>
+* hero image [desktop size] 'About' page is taken from: <a href="https://www.pexels.com/photo/photo-of-dog-peeking-on-vehicle-window-3097610/" target="_blank">Pixels</a>
+* founder image - 'About' page is taken from: <a href="" target="_blank">Pixels</a>
+* hero image [mobile size] 'Find Match!' page is taken from: <a href="" target="_blank">Pixels</a>
+* hero image [desktop size] 'Find Match!' is taken from: <a href="https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/" target="_blank">Pixels</a>
+* hero image [desktop/mobile size] 'Thank you' page is taken from: <a href="https://www.pexels.com/photo/a-pet-dog-hiding-8473265/" target="_blank">Pixels</a>
