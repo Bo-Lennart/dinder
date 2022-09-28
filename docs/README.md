@@ -115,9 +115,16 @@ The bug was solved by setting a dot infront of the pathway and originate from th
 
 * HTML
     * W3C validator
+    * All the errors were adjusted/replaced accordingly
+    ![IMAGE ALT TEXT HERE](/docs/screenshots/index_validation.png) 
+    ![IMAGE ALT TEXT HERE](/docs/screenshots/about_thanks_validation.png) 
+    ![IMAGE ALT TEXT HERE](/docs/screenshots/find_match_validation_first.png) 
+    ![IMAGE ALT TEXT HERE](/docs/screenshots/find_match_validation_second.png) 
 
 * CSS
     * Jigsaw
+    * no errors or warnings were shown for the stylesheets document
+    ![IMAGE ALT TEXT HERE](/docs/screenshots/css_validation.png) 
 
 * Accessibility
     * I confirm that by running the webpage through lighthouse in devtools that font, colours, read and accessibility is performing well. 
