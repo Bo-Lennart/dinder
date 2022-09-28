@@ -16,22 +16,22 @@ Dinder is a matching service for dog owners in Stockholm, Berlin and Dublin, fou
 
 ## Contents
 
-* Project Goals
-* Target audience
-* UX User Experience
-    * User Stories
-    * Color Scheme
-* Features
-    * Navigation
-    * Hero image
-    * Member Interview
-    * About page
-    * Find Match!
-    * Thank You Page
-    * Footer
-* Testing
-    * Bugs
-    * Validator Testing
+- [Project Goals](#project-goals)
+- [Target audience](#target-audience)
+- [UX User Experience](#ux-user-eperience)
+    - [User Stories](#user-stories)
+    - [Color Scheme](#color-schemes)
+- [Features](#features)
+    - [Navigation](#navigation)
+    - [Hero image](#hero-image)
+    - [Member Interview](#member-interview)
+    - [About page](#about-page)
+    - [Find Match!](#find-match)
+    - [Thank You Page](#thank-you-page)
+    - [Footer](#footer)
+- [Testing](#footer)
+    - [Bugs](#bugs)
+    - [Validator Testing](#validator-testing)
 
 # Project Goals
 
