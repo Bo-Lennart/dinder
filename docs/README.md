@@ -179,6 +179,9 @@ The bug was solved by setting a dot in front of the pathway and originating from
 
 ![IMAGE ALT TEXT HERE](/docs/screenshots/lighthouse_performance.png) 
 
+A final testing right before submission has been made and no errors were detected when running all code through w3c.
+Submit form and all links work as intended on responsive screensizes.
+
 # Deployment
 
 The site was deployed to GitHub pages.
@@ -202,9 +205,9 @@ To make a copy or ‘fork’ the repository:
 
 ## To create a Local Clone
 
-1. under the repository name, click on the ‘code’ tab
-2. in the clone box, HTTPS tab, click on the clipboard icon
-3. in your IED open GitBash
+1. Under the repository name, click on the ‘code’ tab
+2. In the clone box, HTTPS tab, click on the clipboard icon
+3. In your IED open GitBash
 4. Changed the current working directory to the location you want the cloned directory to be made
 5. Type ‘git clone’ and then paste the URL copied from GitHub
 6. press enter and the local clone will be created
